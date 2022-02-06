@@ -1,0 +1,15 @@
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\LinkedListDemoTests.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\LinkedListDemoTests.pdb
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\LinkedListDemo.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\LinkedListDemo.pdb
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\code\LinkedListDemo\LinkedListDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\code\LinkedListDemo\LinkedListDemoTests\obj\Debug\LinkedListDemoTests.csproj.AssemblyReference.cache
+E:\code\LinkedListDemo\LinkedListDemoTests\obj\Debug\LinkedListDemoTests.csproj.CoreCompileInputs.cache
+E:\code\LinkedListDemo\LinkedListDemoTests\obj\Debug\LinkedListDemoTests.dll
+E:\code\LinkedListDemo\LinkedListDemoTests\obj\Debug\LinkedListDemoTests.pdb
